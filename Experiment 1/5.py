@@ -1,0 +1,5 @@
+Side=input("Enter The Value Of Side Of A Rectangle\n")
+Length=input("Enter The Value Of Length Of A Square\n")
+Width=input("Enter The Value Of Width Of A Square\n")
+print("So The Area Of A Sqaure Is ",int(Side)*int(Side))
+print(" And The Area Of A Rectangle Is ",int(Length)*int(Width))
